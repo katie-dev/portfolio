@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color:#49393B ;
+}
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+.color-container {
+    width:100%;
+}
+.colour-panel {
+    display:inline-block;
+    width: 15%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+.sage {
+    background-color:#7E846B ;
+    color: #fff;
+}
+.coffee {
+    background-color: #49393B;
+    color: #fff;
+}
+.rose {
+    background-color: #B97375;
+    color: #fff;
+}
+.linen {
+    background-color: #EFE6DD;
+}
+.olive {
+    background-color: #767522;
+    color: #fff;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+.lora {
+    font-family: 'lora';
+}
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+.bold {
+    font-weight: 600;
+}
+.italic {
+    font-style: italic;
+}
+
+.text-panel h1 {
+    font-weight: 600;
+    font-size: 32px;
+    font-family: 'lora';
+}
+.li {
+    font-weight: 400;
+    font-size: 22px;
+    font-family: 'lora';
+}
